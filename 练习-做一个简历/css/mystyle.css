@@ -1,0 +1,7 @@
+header, footer, nav, div, section, aside, article, p {
+    border: 1px dotted #f0f0f0;
+}
+
+.divContent {
+    min-height: 350px;
+}
